@@ -1,0 +1,12 @@
+*.jar
+*/lib
+build/
+bin/
+target/
+*.class
+*.classpath
+*.project
+*.settings/
+*allabouttaxessshkey
+*allabouttaxessshkey.pub
+
